@@ -32,7 +32,11 @@ var catCollection = client.GetDatabase("iths").GetCollection<Cat>("cats");
 var catFilter = Builders<Cat>.Filter.Eq("_id", new ObjectId("6784e3dd55ff159ed6b3f958"));
 var catUpdate = Builders<Cat>.Update.Set("name", "måns2");
 
-catCollection.UpdateOne(catFilter, catUpdate);
+//catCollection.UpdateOne(catFilter, catUpdate);
+
+var movies = movieCollection.AsQueryable().Where(m => m.Title.ToLower().Contains("matrix")).ToList();
+
+movies.ForEach(m => Console.WriteLine($"{m.Title}"));
 
 public class Cat
 {
