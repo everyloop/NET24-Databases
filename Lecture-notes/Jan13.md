@@ -4,7 +4,7 @@
 
 Vi kollar på hur man använder MongoDB Driver för att connecta mot MongoDB och göra CRUD-operationer med hjälp av Builders<> (hjälp-klasser).
 
-Snabbreferens finns här: [https://www.mongodb.com/docs/drivers/csharp/current/quick-reference/]
+Snabbreferens finns [här!](https://www.mongodb.com/docs/drivers/csharp/current/quick-reference/)
 
 **Code-along:**  
 [L014_MongoDbDriver](https://github.com/everyloop/NET24-Databases/tree/master/Code-along/L014_MongoDbDriver)  
