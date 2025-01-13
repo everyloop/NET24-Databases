@@ -26,6 +26,7 @@ Här hittar du code-along projekt från lektioner, lektionsanteckningar, samt [�
 | [Jan 7][Jan7]   | Introduktion till NoSQL, MongoDB shell, Compass, CRUD.               |
 | [Jan 8][Jan8]   | MongoDB Atlas. Aggregation Pipelines. Views                          |
 | [Jan 9][Jan9]   | MongoDB, EFcore och Repository Pattern                               |
+| [Jan 13][Jan13] | MongoDB Driver, BsonDocument, LINQ to Aggregation Pipeline           |
 
 [Nov11]: https://github.com/everyloop/NET24-Databases/blob/master/Lecture-notes/Nov11.md
 [Nov13]: https://github.com/everyloop/NET24-Databases/blob/master/Lecture-notes/Nov13.md
@@ -44,3 +45,4 @@ Här hittar du code-along projekt från lektioner, lektionsanteckningar, samt [�
 [Jan7]: https://github.com/everyloop/NET24-Databases/blob/master/Lecture-notes/Jan7.md
 [Jan8]: https://github.com/everyloop/NET24-Databases/blob/master/Lecture-notes/Jan8.md
 [Jan9]: https://github.com/everyloop/NET24-Databases/blob/master/Lecture-notes/Jan9.md
+[Jan13]: https://github.com/everyloop/NET24-Databases/blob/master/Lecture-notes/Jan13.md
